@@ -4,6 +4,6 @@ Environment protocol for Common Lisp compilers.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Trucler.git   |
-| commit  | 69d3e4f                                               |
+| commit  | 39d4ba1                                               |
 | systems | trucler trucler-base trucler-reference trucler-native |
 |---------+-------------------------------------------------------|
